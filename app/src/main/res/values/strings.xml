@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFavoriteMovies</string>
+    <string name="search_null_notify">Input search content</string>
+</resources>
